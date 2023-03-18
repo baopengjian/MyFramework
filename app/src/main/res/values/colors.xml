@@ -3,4 +3,7 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+    <color name="black_333">#333333</color>
+    <color name="white">#FFFFFF</color><!-- 统一白色 -->
+    <color name="gray">#959595</color><!-- 字体灰色 -->
 </resources>
